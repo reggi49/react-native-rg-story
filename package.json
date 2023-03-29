@@ -1,0 +1,51 @@
+{
+  "name": "react-native-rg-story",
+  "title": "React Native Rg Story",
+  "version": "1.0.0",
+  "description": "Story component for React Native.",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "src",
+    "react-native-rg-story.podspec",
+    "!ios/build",
+    "!android/build",
+    "!example"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caglardurmus/react-native-rg-story.git",
+    "baseUrl": "https://github.com/caglardurmus/react-native-rg-story"
+  },
+  "keywords": [
+    "react-native",
+    "ig-story",
+    "rg-story",
+    "story",
+    "instagram",
+    "wa-story",
+    "whatsapp"
+  ],
+  "author": {
+    "name": "reggi49",
+    "email": "reggi49@gmail.com"
+  },
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react-native-modalbox": "^2.0.2",
+    "react-native-swipe-gestures": "^1.0.5",
+    "react-native-video": "^5.2.1"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.69.1"
+  }
+}

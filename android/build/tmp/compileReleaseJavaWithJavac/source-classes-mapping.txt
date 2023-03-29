@@ -1,0 +1,6 @@
+com/reactlibrary/InstaStoryPackage.java
+ com.reactlibrary.InstaStoryPackage
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/InstaStoryManager.java
+ com.reactlibrary.InstaStoryManager
