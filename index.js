@@ -1,5 +1,5 @@
 import Story from "./src/Story";
 
-export const InstaStory = Story;
+export const RgStory = Story;
 
-export default InstaStory;
+export default RgStory;

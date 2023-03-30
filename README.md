@@ -8,12 +8,12 @@
 
 #### 1. Step
 ```javascript
-npm install react-native-insta-story --save
+npm install react-native-rg-story --save
 ```
 or
 
 ```javascript
-yarn add react-native-insta-story 
+yarn add react-native-rg-story 
 ```
 
 #### 2. Step
@@ -23,7 +23,7 @@ cd ios && pod install
 
 ## Import
 ```javascript
-import InstaStory from 'react-native-insta-story';
+import InstaStory from 'react-native-rg-story';
 ```
 
 ## Props
@@ -82,7 +82,7 @@ const data = [
     }];
 
 
-<InstaStory data={data}
+<RgStory data={data}
             duration={10}
             onStart={item => console.log(item)}
             onClose={item => console.log('close: ', item)}
