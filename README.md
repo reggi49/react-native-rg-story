@@ -23,7 +23,7 @@ cd ios && pod install
 
 ## Import
 ```javascript
-import InstaStory from 'react-native-rg-story';
+import RgStory from 'react-native-rg-story';
 ```
 
 ## Props
@@ -92,7 +92,3 @@ const data = [
             style={{marginTop: 30}}/>
 
 ```
-
-
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](http://www.bynogame.com/tr/destekle/caglardurmus)
